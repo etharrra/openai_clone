@@ -147,3 +147,12 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+.footer {
+  padding: 10px;
+  color: #727575;
+}
+
+.footer a {
+  color: #727575;
+}
